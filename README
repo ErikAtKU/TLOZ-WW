@@ -1,1 +1,56 @@
-A TLOZ: WW text to image translation!
+An image-based english to hylian translator.
+Alphabet and rules from omniglot:
+http://www.omniglot.com/writing/hylian2.htm
+The Legend of Zelda is copyright Nintendo
+
+The text is designed for japanese characters. As such, I took a few creative liberties with the letters:
+bh","b
+tch","tu
+ch","t
+dh","d
+fh","f
+gh","g
+jh","j
+kh","k
+lh","l
+mh","m
+nh","n
+ph","f
+qh","q
+rh","r
+she","si
+sh","s
+th","t
+vh","v
+wh","w
+xh","x
+zh","z
+ci","si
+ce","se
+c","k
+j","z
+f","h
+l","r
+q","k
+shi","si
+tsu","tu
+wi","wa
+we","wa
+wo","wu
+v","h
+x","k
+ye","ya
+yi","ya
+double consonants are removed
+double vowels are turned into single vowels plus vowel lengthener
+
+additionally, to ease on the programming, several of the character names were remade:
+ji#1 = zi
+ji#2 = di
+zu#2 = du
+fu = hu
+chi = ti
+tsu = tu
+shi = si
+wo = wu
+be#1 = bi

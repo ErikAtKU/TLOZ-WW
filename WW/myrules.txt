@@ -1,0 +1,29 @@
+To ease on the programming:
+ji#1 = zi
+ji#2 = di
+zu#2 = du
+fu = hu
+chi = ti
+tsu = tu
+shi = si
+wo = wu
+be#1 = bi
+
+substitution rules:
+chi = ti
+ci = si
+ce = se
+otherwise c = k
+j = z
+f = h
+l = r
+q = k
+shi = si
+tsu = tu
+wi = wa
+we = wa
+wo = wu
+v = h
+x = k
+[consonant]h = [consonant]
+[consonant] = [consonant]u
